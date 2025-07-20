@@ -1,6 +1,8 @@
 # Proyecto Final Diseño Web
 
-Este proyecto corresponde al examen final de la asignatura Diseño Web, el cual consiste en la realización de una pagina web para el emprendimiento Mapuescuela.
+Este proyecto corresponde al examen final de la asignatura Diseño Web, el cual consiste en la realización de una pagina web para el emprendimiento MapuEscuela.
+
+- 🌐 Sitio desplegado en Netlify: https://webmapuescuela.netlify.app/
 
 # Descripción
 
